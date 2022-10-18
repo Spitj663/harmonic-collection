@@ -123,6 +123,20 @@
   }
 }
 
+@media (max-width: 398px) {
+  .paragraph {
+    font-size: 15px;
+  }
+
+}
+
+@media (max-width: 363px) {
+  .paragraph {
+    font-size: 14px;
+  }
+
+}
+
 @media (max-width: 325px) {
   .paragraph {
     font-size: 13px;
