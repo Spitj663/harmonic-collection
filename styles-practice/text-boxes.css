@@ -1,0 +1,60 @@
+
+.whats-new-current {
+background-color: white;
+height:30px;
+margin-bottom: 20px;
+padding-top: 3px;
+border-color: black;
+border-style:dashed;
+border-width: 2px;
+overflow: hidden;
+
+
+font-family: 'Courier New', Courier, monospace;
+font-weight:bold;
+font-style: italic;
+color: black;
+font-size: 20px;
+white-space: nowrap;
+}
+
+.whats-new {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-style: italic;
+  color: black;
+  font-size: 20px;
+}
+
+.poop {
+  margin-left: -217px;
+}
+
+
+.weekly-descriptions {
+  max-width: 500px;
+  margin-top: 65px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+
+@media (max-width: 500px) {
+  .poop {
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 500px) {
+  .whats-new-current {
+    max-width: 320px;
+    padding-left: 7px;
+  }
+}
