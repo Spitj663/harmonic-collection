@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "harmonic-collection",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "harmonic-collection"
+	}
+}
